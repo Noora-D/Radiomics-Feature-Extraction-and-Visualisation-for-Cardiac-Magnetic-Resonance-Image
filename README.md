@@ -3,5 +3,5 @@ This project aims to provide a convenient and integrated tool for clinical analy
 ### Run with Python
 
 1.  Create a virtual environment. Mac can use virtualenv or conda. Windows must use conda.
-2.  Install the dependencies (PyQt5, vtk and Pyradiomics etc.) 
-3.  Start the program `python .\visualizer_volumeRendering\CMRI_Toolbox.py -i ".\image.nii.gz" -m ".\mask.nii.gz""`
+2.  Install the dependencies (PyQt5, vtk and Pyradiomics etc.)  (Import environment files directly in conda)
+3.  Start the program `python .\visualizer\CMRI_Toolbox.py -i ".\image.nii.gz" -m ".\mask.nii.gz""`
